@@ -25,16 +25,16 @@ BatteryLife_EconomicsOptimization/
 │── docs/                     # 論文對應文件與技術說明
 │
 ├── BattLifeEvaluation/       # 電池壽命估測模組
-│   ├── life_model.py
-│   └── features_extraction.py
+│   ├── battery_features.py
+│   └── .py
 │
 ├── BattCostAnalysis/         # 成本分析模組
-│   ├── cost_model.py
-│   └── lcoe_calculator.py
+│   ├── CostAnalysis.py
+│   └── .py
 │
 ├── BattEconDispatch/         # 經濟調度模組
-│   ├── optimization_model.py
-│   └── scheduler.py
+│   ├── optimzation_model.py
+│   └── .py
 │
 └── main.py                   # 主程式，整合三大模組進行完整模擬
 ````
