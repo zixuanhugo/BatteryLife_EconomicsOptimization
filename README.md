@@ -1,5 +1,4 @@
-好的 👍 我幫你設計一個 **README.md** 範本，適合放在 GitHub Repo，能清楚呈現你的研究與程式定位。
-
+Hugo的論文
 ---
 
 ````markdown
